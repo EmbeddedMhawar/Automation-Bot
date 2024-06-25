@@ -1,0 +1,398 @@
+
+     <tbody><tr><th scope="COL"><div class="hidden">SAFER Layout</div></th>
+     </tr>
+     <tr>
+       <!-- BEGIN: USDOT INFORMATION -->
+       <td colspan="4" class="querylabelbkg" style="text-align:center">USDOT INFORMATION</td>
+</tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#EntityType">Entity Type:</a></th>
+       <td colspan="3" class="queryfield" valign="top">
+         CARRIER
+         &nbsp;</td>
+         <!--<TH SCOPE="ROW" class="querylabelbkg" align=right><A class="querylabel" href="saferhelp.aspx#Status">New Entrant Status:</A></TH>
+                   <TD class="queryfield" valign=top>
+                        (Active)
+                       
+                       &nbsp;</TD>-->
+     </tr>
+
+          <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#OOS">USDOT Status:</a></th>
+                           <td class="queryfield" valign="top">                                             
+                        <!--ACTIVE-->  ACTIVE
+                       &nbsp;</td>
+               <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#OOSDate">Out of Service Date:</a></th>
+       <td width="30%" class="queryfield"> None </td>
+     </tr>
+     
+          <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#USDOTID">USDOT Number:</a></th>
+       <td class="queryfield" valign="top">1128010&nbsp;</td>
+       <th class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#StateID">State Carrier ID Number:</a></th>
+       <td class="queryfield" valign="top">&nbsp;</td>
+     </tr>
+     
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#">MCS-150 Form Date:</a></th>
+       <td class="queryfield" valign="top">08/23/2023&nbsp;</td>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#">MCS-150 Mileage (Year):</a></th>
+       <td valign="top"><font style="font-size:80%" face="arial" color="#0000C0"><b>60,000 (2021)&nbsp;</b></font></td>
+     </tr>
+     
+
+     
+     
+     <tr>
+       <!-- BEGIN: OPERATING AUTHORITY INFORMATION -->
+       <td colspan="4" class="querylabelbkg" style="text-align:center">OPERATING AUTHORITY INFORMATION</td>
+</tr>
+
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#OOS">Operating Authority Status:</a></th>
+       
+       <td colspan="4" width="30%" class="queryfield">AUTHORIZED FOR Property, HHG <br><br> <b style="color:black">For Licensing and Insurance details </b> <a style="color:#0000c0" href="https://li-public.fmcsa.dot.gov/LIVIEW/pkg_carrquery.prc_carrlist?n_dotno=1128010">click here.</a></td>
+       
+       
+     </tr>
+          <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#ICCNumbers">MC/MX/FF Number(s):</a></th>
+       <td colspan="4" class="queryfield" valign="top">
+         
+         <a href="http://li-public.fmcsa.dot.gov/LIVIEW/pkg_carrquery.prc_carrlist?n_dotno=1128010&amp;s_prefix=MC&amp;n_docketno=459929&amp;s_legalname=&amp;s_dbaname=&amp;s_state="> MC-459929</a><br>
+         
+         &nbsp;</td>
+  
+     </tr>
+
+<tr>
+       <!-- BEGIN: COMPANY INFORMATION -->
+       <td colspan="4" class="querylabelbkg" style="text-align:center">COMPANY INFORMATION</td>
+</tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#Carrier">Legal Name:</a></th>
+       <td class="queryfield" valign="top" colspan="3">COLUMBIA INTERMODAL LLC&nbsp;</td>
+     </tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#DBAName">DBA Name:</a></th>
+       <td class="queryfield" valign="top" colspan="3">&nbsp;</td>
+     </tr>
+         
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#PhysicalAddress">Physical Address:</a></th>
+       <td class="queryfield" valign="top" colspan="3" id="physicaladdressvalue">
+        106 ALLEN ROAD<br>
+            LIBERTY CORNER, NJ &nbsp; 07938
+         &nbsp;</td>
+     </tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#Phone">Phone:</a></th>
+       <td class="queryfield" valign="top" colspan="3">
+       (908) 991-0001
+        &nbsp;</td>
+    </tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#MailingAddress">Mailing Address:</a></th>
+       <td class="queryfield" valign="top" colspan="3" id="mailingaddressvalue">
+        106 ALLEN ROAD<br>
+          LIBERTY CORNER, NJ &nbsp; 07938
+         &nbsp;</td>
+     </tr>
+    
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#DUNSNumber">DUNS Number:</a></th>
+       <td colspan="4" class="queryfield" valign="top">--&nbsp;</td>
+     </tr>
+     <tr>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#PowerUnits">Power Units:</a></th>
+       <td class="queryfield" valign="top">7&nbsp;</td>
+       <th scope="ROW" class="querylabelbkg" align="right"><a class="querylabel" href="saferhelp.aspx#Drivers">Drivers:</a></th>
+       <td valign="top"><font style="font-size:80%" face="arial" color="#0000C0"><b>7&nbsp;</b></font></td>
+     </tr>
+ 
+     <tr>
+       <!-- BEGIN: Operating Classification -->
+       <td colspan="4" class="querylabelbkg"><a class="querylabel" href="saferhelp.aspx#Class">Operation Classification:</a></td>
+     </tr>
+     <tr>
+       <td colspan="4" align="center">
+         <table border="0" cellpadding="2" cellspacing="0" summary="Operation Classification">
+           <tbody><tr><th scope="COL"><div class="hidden">Operation Classification</div></th>
+           </tr>
+           <tr>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr>
+                   <th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td class="queryfield" width="5%">X</td>
+                   <td><font style="font-size:80%" face="arial">Auth. For Hire</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Exempt For Hire</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Private(Property)</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Priv. Pass. (Business)</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr><th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td class="queryfield" width="5%"></td>
+                   <td><font style="font-size:80%" face="arial">Priv. Pass.(Non-business)</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Migrant</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">U.S. Mail</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Fed. Gov't</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr>
+                   <th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td class="queryfield" width="5%"></td>
+                   <td><font style="font-size:80%" face="arial">State Gov't</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Local Gov't</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Indian Nation</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield">X</td>
+                   <td class="queryfield">IEP</td>
+                 </tr>
+               </tbody></table>
+             </td>
+           </tr>
+         </tbody></table>
+       </td>
+     </tr>
+     <tr>
+       <!-- BEGIN: Carrier Operations -->
+       <td colspan="4" class="querylabelbkg" valign="top"><a class="querylabel" href="saferhelp.aspx#CarrierOP">Carrier Operation:</a></td>
+     </tr>
+     <tr>
+       <td colspan="4" align="center">
+         <table border="0" cellpadding="2" cellspacing="0" summary="Carrier Operation">
+           <tbody><tr><th scope="COL"><div class="hidden">Carrier Operation</div></th>
+           </tr>
+           <tr>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr>
+                   <th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Interstate</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr>
+                   <th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Intrastate Only (HM)</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr>
+                   <th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield">X</td>
+                   <td><font style="font-size:80%" face="arial">Intrastate Only (Non-HM)</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+           </tr>
+         </tbody></table>
+       </td>
+     </tr>
+     <tr>
+       <!-- BEGIN: Shipper Operations -->
+       
+     </tr><tr>
+       <!-- BEGIN: Cargo Carried -->
+       <td colspan="4" class="querylabelbkg" valign="top"><a class="querylabel" href="saferhelp.aspx#Cargo">Cargo Carried:</a></td>
+     </tr>
+     <tr>
+       <td colspan="4" align="center">
+         
+         <table border="0" cellpadding="2" cellspacing="0" summary="Cargo Carried">
+           <tbody><tr><th scope="COL"><div class="hidden">Cargo Carried</div></th>
+           </tr>
+           <tr>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr><th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">General Freight</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Household Goods</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Metal: sheets, coils, rolls</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Motor Vehicles</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Drive/Tow away</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Logs, Poles, Beams, Lumber</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Building Materials</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Mobile Homes</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Machinery, Large Objects</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Fresh Produce</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr><th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Liquids/Gases</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield">X</td>
+                   <td><font style="font-size:80%" face="arial">Intermodal Cont.</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Passengers</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Oilfield Equipment</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Livestock</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Grain, Feed, Hay</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Coal/Coke</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Meat</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Garbage/Refuse</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">US Mail</font></td>
+                 </tr>
+               </tbody></table>
+             </td>
+             <td width="32%" valign="top">
+               <table border="0" cellpadding="2" cellspacing="0" summary="For formatting purpose">
+                 <tbody><tr><th scope="COL"><div class="hidden">SAFER Layout</div></th>
+                 </tr>
+                 <tr>
+                   <td width="5%" class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Chemicals</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Commodities Dry Bulk</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Refrigerated Food</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Beverages</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Paper Products</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Utilities</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Agricultural/Farm Supplies</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Construction</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield"></td>
+                   <td><font style="font-size:80%" face="arial">Water Well</font></td>
+                 </tr>
+                 <tr>
+                   <td class="queryfield">X</td>
+                   <td class="queryfield">IEP</td>
+                 </tr>
+               </tbody></table>
+             </td>
+           </tr>
+         </tbody></table>
+       </td>
+     </tr>
+   </tbody>
